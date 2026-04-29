@@ -1,5 +1,5 @@
-#css-my-site project
+# my-own-portfolio
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](screenshot.jpeg)
 
 [Live Demo](https://rinki88.github.io/my-own-portfolio/)
